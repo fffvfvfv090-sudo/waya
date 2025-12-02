@@ -1,0 +1,63 @@
+{
+  "6854574142": {
+    "username": "Darkness6667",
+    "first_name": "Darkness",
+    "registered": "2025-11-15T05:40:21.233675",
+    "referrer_id": null,
+    "game_id": "1111111",
+    "earned_added": true
+  },
+  "5253749193": {
+    "username": "s4l4t1k",
+    "first_name": "s4l4t1k",
+    "registered": "2025-11-15T05:41:39.360427",
+    "referrer_id": "6854574142",
+    "game_id": "111"
+  },
+  "6412937156": {
+    "username": "Sark_S",
+    "first_name": "S.W.",
+    "registered": "2025-11-15T17:54:53.808883",
+    "referrer_id": null
+  },
+  "1767490104": {
+    "username": "jabacloud",
+    "first_name": "jaba",
+    "registered": "2025-11-16T16:36:02.665503",
+    "referrer_id": null,
+    "game_id": "8642",
+    "bonus_claimed": false
+  },
+  "7002649339": {
+    "username": "karinakroks",
+    "first_name": "Karina",
+    "registered": "2025-11-16T17:41:30.362037",
+    "referrer_id": null,
+    "game_id": null,
+    "bonus_claimed": false
+  },
+  "8342727833": {
+    "username": "Aleisterr_Crowley",
+    "first_name": "Aleister Crowley",
+    "registered": "2025-11-16T20:16:18.419281",
+    "referrer_id": null,
+    "game_id": "74793525",
+    "bonus_claimed": false
+  },
+  "5792857162": {
+    "username": "john_kh1",
+    "first_name": "Dar",
+    "registered": "2025-11-16T23:24:19.767280",
+    "referrer_id": null,
+    "game_id": null,
+    "bonus_claimed": false
+  },
+  "-1002300233284": {
+    "username": "GroupAnonymousBot",
+    "first_name": "Group",
+    "registered": "2025-11-17T20:19:16.408155",
+    "referrer_id": null,
+    "game_id": null,
+    "bonus_claimed": false
+  }
+}

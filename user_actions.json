@@ -1,0 +1,47 @@
+{
+  "5253749193": {
+    "promos": 1,
+    "bonus": 1,
+    "profile": 2,
+    "copy_ref": 1,
+    "ref_stats": 1,
+    "language": 1,
+    "community": 3,
+    "apply": 3,
+    "submit_app": 1,
+    "referral": 1,
+    "payment": 2
+  },
+  "6854574142": {
+    "profile": 16,
+    "promos": 22,
+    "bonus": 8,
+    "referral": 8,
+    "ref_stats": 4,
+    "copy_ref": 9,
+    "language": 6,
+    "community": 15,
+    "apply": 6,
+    "payment": 3
+  },
+  "6412937156": {
+    "promos": 3,
+    "bonus": 2,
+    "profile": 2,
+    "copy_ref": 1,
+    "community": 1,
+    "payment": 1
+  },
+  "8342727833": {
+    "profile": 9,
+    "copy_ref": 3,
+    "promos": 6,
+    "language": 2,
+    "apply": 5,
+    "community": 6,
+    "payment": 2,
+    "referral": 5,
+    "bonus": 2,
+    "ref_stats": 1
+  }
+}
